@@ -696,7 +696,7 @@
         <div class="header-main">
             <div class="container">
                 <div class="header-content">
-                    <a href="#" class="logo">MukeshMart<span>+</span></a>
+                    <a href="#" class="logo">FlipMart<span>+</span></a>
                     
                     <div class="search-container">
                         <div class="search-box">
